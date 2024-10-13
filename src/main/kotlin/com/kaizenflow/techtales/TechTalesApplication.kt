@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class TechTalesApplication
 
 fun main(args: Array<String>) {
-	runApplication<TechTalesApplication>(*args)
+    runApplication<TechTalesApplication>(*args)
 }
